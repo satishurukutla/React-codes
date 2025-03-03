@@ -3,7 +3,7 @@ class Concept extends Component{
    render(){  
       return(  
          <div>  
-            <h1>JavaTpoint</h1>  
+            <h1>JavaTpoint is the main point </h1>  
           <h2>Training Institutes</h2>  
             <p>This website contains the best CS tutorials.</p>  
          </div>  
